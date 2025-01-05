@@ -1,1 +1,3 @@
-
+#EXTM3U  
+#EXTINF:-1 tvg-id="YESNetwork" tvg-name="YES Network" tvg-logo="https://ibb.co/mNnVPN7",YES Network  
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8  
